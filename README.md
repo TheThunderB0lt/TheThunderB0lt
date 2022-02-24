@@ -1,15 +1,15 @@
 [![Untitled](https://user-images.githubusercontent.com/50051805/154792235-d399451c-2fd1-43d1-a54f-1476f014616a.png)](https://thethunderb0lt.github.io/)
 <h1 align="center">Hi 👋, I'm NIKITH KUMAR N</h1>
-<h3 align="center">A Computer Science Engineer from Bangalore, India</h3>
+<h3 align="center">A Computer Science Engineer from Bangalore, India 🏠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thethunderb0lt&label=Profile%20views&color=0e75b6&style=flat" alt="thethunderb0lt" /> </p>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/50051805/154793012-1a920d0c-9c8f-46d1-b9bc-a3716fbf0361.png">
 
-- 🧐 I’m currently looking for **Software Engineer Role Jobs**
+- 🧐 I’m currently looking for Jobs in **Software Engineer Role**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheThunderB0lt](https://github.com/TheThunderB0lt)
 
-- 📄 You can also check out my portfolio at [https://thethunderb0lt.github.io/](https://thethunderb0lt.github.io/)
+- 🔍 You can also check out my portfolio at [https://thethunderb0lt.github.io/](https://thethunderb0lt.github.io/)
 
 - 📫 How to reach me **nikithkumar160698@gmail.com**
 
