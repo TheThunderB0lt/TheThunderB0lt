@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thethunderb0lt&label=Profile%20views&color=0e75b6&style=flat" alt="thethunderb0lt" /> </p>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/50051805/154793012-1a920d0c-9c8f-46d1-b9bc-a3716fbf0361.png">
 
-- 🔭 I’m currently working on **My Portfolio Website Using ReactJS**
+- 🧐 I’m currently looking for **Software Engineer Role Jobs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheThunderB0lt](https://github.com/TheThunderB0lt)
 
