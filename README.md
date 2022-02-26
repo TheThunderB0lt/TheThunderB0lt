@@ -35,7 +35,7 @@
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/nikithkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/TheThunderB0lt/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/TheThunderB0lt/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> 
 <a href="https://www.instagram.com/itz_nikith/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/NIKITHKUMARN1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.facebook.com/itznikith.kumar/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
