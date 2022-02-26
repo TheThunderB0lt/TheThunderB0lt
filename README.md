@@ -1,5 +1,5 @@
 [![Untitled](https://user-images.githubusercontent.com/50051805/154792235-d399451c-2fd1-43d1-a54f-1476f014616a.png)](https://thethunderb0lt.github.io/)
-<h1 align="center">Hi 👋, I'm NIKITH KUMAR N</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm NIKITH KUMAR N</h1>
 <h3 align="center">A Computer Science Engineer from Bangalore, India 🏠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thethunderb0lt&label=Profile%20views&color=0e75b6&style=flat" alt="thethunderb0lt" /> </p>
