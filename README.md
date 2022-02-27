@@ -30,7 +30,7 @@
 </br>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thethunderb0lt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=009BB7&text_color=000000&bg_color=0,000000,009BB7" alt="TheThunderB0lt's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thethunderb0lt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=009BB7&text_color=C9D1CD&bg_color=0,000000,009BB7" alt="TheThunderB0lt's Github Stats">
 
 ---
 
