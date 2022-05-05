@@ -36,8 +36,9 @@
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/nikithkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/the_thunderbolt?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/NIKITHKUMARN1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.hackerrank.com/the_thunderbolt?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+<a href="https://www.hackerearth.com/@nikith16" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=flat-square&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a>
+<a href="https://discord.com/users/ThεThüŋdεrBöļT#0215/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.facebook.com/itznikith.kumar/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
     
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thethunderb0lt&label=Profile%20views&color=008EA8&style=flat" alt="thethunderb0lt" /> </p>
