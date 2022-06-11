@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="500" height="270" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
 - 🧐 I'm currently looking for positions as a **Software Engineer.**
-- 🌱 I’m currently learning **Software Development Tools**
+- 🌱 I’m currently completing **#100-Days_Coding_Challenge**
 - 🎓 Education: **RRIT(CSE)**
 - **languages and tools:**  
 
