@@ -6,20 +6,22 @@
 <br>
 <img align="right" alt="Coding" width="500" height="270" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
-- 🧐 Currently, I'm looking for work as a **Software Engineer**
-- 🌱 Right now, I'm doing **#100-Days_Coding_Challenge**
-- 🎓 Education: **RRIT(CSE)**
-- **languages and tools:**  
+- 👨‍💻 Currently, I'm a Trainee at **AccioJob**
+- 🌱 I'm now developing my **problem-solving abilities**.
+- 🎓 Graduated from: **RRIT(CSE)**
+- **Languages and Tools:**  
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
-- 📙 Check out my <a href="https://thethunderb0lt.github.io/Resources/Resume.pdf">resume</a>.</li>
-- ⚡ Fun fact **I think I'm Pro 😂**
+- 📙 Check out my <a href="https://www.nikithkumar.ml/assets/cv/Resume.pdf">Resume</a></li>
+- ⚡ Fun fact: **My dream job is Software Developer 😎**
+<!-- - ⚡ Fun fact **When I was a kid, I wanted to be a Software Engineer when I grew up 😂** -->
 
 ---
 
@@ -37,10 +39,12 @@
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/nikithkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://leetcode.com/The_ThunderBolt/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 <a href="https://www.hackerrank.com/the_thunderbolt?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
-<a href="https://www.hackerearth.com/@nikith16" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=flat-square&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a>
-<a href="https://discord.com/users/ThεThüŋdεrBöļT#0215/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://www.facebook.com/itznikith.kumar/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://discord.com/users/ThεThüŋdεrBöļT#0215/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  
+<!-- <a href="https://www.hackerearth.com/@nikith16" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=flat-square&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a> -->
+<!-- <a href="https://www.facebook.com/itznikith.kumar/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
     
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thethunderb0lt&label=Profile%20views&color=008EA8&style=flat" alt="thethunderb0lt" /> </p>
   
