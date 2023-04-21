@@ -4,7 +4,7 @@
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Nikith Kumar</h1> -->
 <h3 align="center">A Computer Science Engineer from Bangalore, Karnataka 🏠</h3>
 <br>
-<img align="right" alt="Coding" width="500" height="270" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
+<img align="right" alt="Coding" width="450" height="270" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
 - 👨‍💻 Currently, I'm a Trainee at **AccioJob**
 - 🌱 I'm now developing my **problem-solving abilities**.
