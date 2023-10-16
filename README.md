@@ -1,19 +1,19 @@
 [![Untitled](https://user-images.githubusercontent.com/50051805/155888255-bb4bff4a-72ad-4fef-8883-e79244cedf68.jpeg)](https://thethunderb0lt.github.io/)
 
-<h2 align="center">Heyyo, I'm <a href="https://www.nikithkumar.ml/" target="_blank">Nikith Kumar</a>!</h2>
+<h2 align="center">Heyyo, I'm <a href="https://www.nikithkumar.ml/" target="_blank">Nikith Kumar</a></h2>
 
 <h3 align="center">A Passionate Software Developer from Bengaluru, Karnataka 🏠</h3>
 <br>
 <img align="right" alt="Coding" width="450" height="270" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
 - 👨‍💻 Trainee at **AccioJob**
-- 🔭 I'm currently working on **Improving DSA**
+- 🔭 I'm currently heavily focused on **DSA**
 - ⚡ Fun fact: **Everyone should code it clean**
 - 📙 Check out my <a href="https://www.nikithkumar.ml/assets/cv/Resume.pdf">Resume</a></li>
 
 <br />
   
-### Languages and Tools:
+<b>Languages and Tools: <b>
 
 <a href="#" target="_blank"> <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> </a>
 
