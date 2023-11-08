@@ -4,7 +4,7 @@
 
 <h3 align="center">A Passionate Software Developer from Bengaluru, Karnataka 🏠</h3>
 <br>
-<img align="right" alt="Coding" width="460" height="290" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
+<img align="right" alt="Coding" width="490" height="300" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
 - 👨‍💻 Trainee at **AccioJob**
 - 🔭 I'm currently heavily focused on **DSA**
