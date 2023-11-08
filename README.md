@@ -9,32 +9,34 @@
 - 👨‍💻 Trainee at **AccioJob**
 - 🔭 I'm currently heavily focused on **DSA**
 - ⚡ Fun fact: **Everyone should code it clean**
-- 📙 Check out my <a href="https://www.nikithkumar.ml/assets/cv/Resume.pdf">Resume</a></li>
+- 📙 Check out my <a href="https://www.nikithkumar.ml/assets/cv/Resume1.pdf">Resume</a></li>
 
 <br />
   
 <b>Languages and Tools: <b>
 
-<a href="#" target="_blank"> <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> </a>
+<a href="#" target="_blank"><img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="Python" width="25px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="C++" width="25px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="CSS3" width="25px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="JS" width="25px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="RJS" width="25px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/></a>
 
-<a href="#" target="_blank"> <img align="left" alt="Python" width="25px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/></a>
+<br />
+<a href="#" target="_blank"><img align="left" alt="Spring" width="25px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="SPBoot" width="25px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="Hiber" width="25px" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="RestAPI" width="25px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"></a>
 
-<a href="#" target="_blank"> <img align="left" alt="C++" width="25px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/> </a>
-
-<a href="#" target="_blank"><img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" /></a>
-
-<a href="#" target="_blank"><img align="left" alt="CSS3" width="25px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" /></a>
-
-<a href="#" target="_blank"><img align="left" alt="CSS3" width="25px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></a>
-
-<a href="#" target="_blank"><img align="left" alt="CSS3" width="25px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" /></a>
-
+<br />
+<a href="#" target="_blank"><img align="left" alt="DJ" width="25px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"></a>
 <a href="#" target="_blank"><img align="left" alt="MySQL" width="25px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /></a>
-
 <a href="#" target="_blank"> <img align="left" alt="git" width="25px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> </a>
+<a href="#" target="_blank"> <img align="left" alt="VSCode" width="25px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> </a>
 
-<a href="#" target="_blank"> <img align="left" alt="git" width="25px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> </a>
-
+<br />
+<br />
 <br />
 <br />
 <br />
