@@ -1,6 +1,6 @@
 [![Untitled](https://user-images.githubusercontent.com/50051805/155888255-bb4bff4a-72ad-4fef-8883-e79244cedf68.jpeg)](https://thethunderb0lt.github.io/)
 
-<h2 align="center">Heyyo, I'm <a href="https://www.nikithkumar.ml/" target="_blank">Nikith Kumar</a></h2>
+<h2 align="center">Heyyo, I'm <a href="https://thethunderb0lt.github.io/" target="_blank">Nikith Kumar</a></h2>
 <h3 align="center">A Passionate Software Developer from Bengaluru, Karnataka 🏠</h3>
 
 <br>
@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" height="250px" src="https://user-images.githubusercontent.com/50051805/155887779-beb0b981-4be9-4c9a-8a74-bc243e6d1f0d.jpg">
 
 - 👨‍💻 Trainee at **AccioJob**
-- 🔭 I'm currently learning **SpringBoot**
+- 🔭 I'm currently learning **DSA & SpringBoot**
 - 🥅 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/nikithkumar/)
