@@ -20,7 +20,7 @@
 🤝 Let’s connect to discuss tech, share insights, and explore potential collaborations. Whether you’re looking to collaborate on a project, share knowledge, or simply connect with fellow enthusiasts, I’m here to connect and learn from like-minded professionals.
 
 
-- 🌱 I’m currently learning **Spring boot, React.js**.
+- 🌱 I’m currently learning **Spring Boot, ReactJS**.
 
 - 💬 Ask me about anything, I am happy to help. 😀
 
@@ -38,19 +38,21 @@
 <a href="#" target="_blank"><img align="left" alt="Java" width="28px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="Python" width="28px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="C++" width="28px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/></a>
-<a href="#" target="_blank"><img align="left" alt="HTML5" width="28px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/></a>
-<a href="#" target="_blank"><img align="left" alt="CSS3" width="28px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/></a>
-<a href="#" target="_blank"><img align="left" alt="JavaScriptS" width="28px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/></a>
-<a href="#" target="_blank"><img align="left" alt="React.js" width="28px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="HTML" width="28px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="CSS" width="28px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="JavaScript" width="28px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/></a>
+<a href="#" target="_blank"><img align="left" alt="ReactJS" width="28px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="Spring" width="28px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="SpringBoot" width="28px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="Hibernate" width="28px" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"/></a>
 <a href="#" target="_blank"><img align="left" alt="RestAPI" width="28px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"></a>
-<a href="#" target="_blank"> <img align="left" alt="Postman" width="28px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></a>
-<a href="#" target="_blank"><img align="left" alt="Django" width="28px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"></a>
 <a href="#" target="_blank"><img align="left" alt="MySQL" width="28px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /></a>
-<a href="#" target="_blank"> <img align="left" alt="git" width="28px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> </a>
+<a href="#" target="_blank"><img align="left" alt="PostgreSQL" width="28px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Django" width="28px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"></a>
+<a href="#" target="_blank"> <img align="left" alt="Postman" width="28px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></a>
+<a href="#" target="_blank"> <img align="left" alt="Git" width="28px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> </a>
 <a href="#" target="_blank"> <img align="left" alt="VSCode" width="28px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> </a>
+<a href="#" target="_blank"> <img align="left" alt="IntelliJ" width="28px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> </a>
 <br />
 
 ---
